@@ -1,2 +1,2 @@
 # BlazorServerLocalizationTest
- A simple testing project for localization
+ A simple blazor app for testing localization
